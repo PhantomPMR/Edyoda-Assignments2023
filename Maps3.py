@@ -1,7 +1,7 @@
-def multiply_with_3(x):
-    return x * 3
+user_str = input("Enter a list of integers separated by commas: ")
 
-New_list = [100,200,300,400,500,600,700]
-tripled_list = list(map(multiply_with_3, New_list))
+input_list = [int(num) for num in user_str.split(',')]
+tripled_list = list(map(lambda x: x * 3, input_list))
+
 print("Triple of list numbers:")
 print(tripled_list)
