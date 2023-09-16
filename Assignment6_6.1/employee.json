@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Pavan Manish",
+        "DOB": "1998-09-17",
+        "Height": 172.0,
+        "City": "Bapatla",
+        "State": "Andhra Pradesh"
+    },
+    {
+        "Name": "Kajal Bose",
+        "DOB": "1985-07-17",
+        "Height": 165.0,
+        "City": "Eden Gardens",
+        "State": "Kolkata"
+    },
+    {
+        "Name": "Prince",
+        "DOB": "2000-05-13",
+        "Height": 169.0,
+        "City": "Vasant Kunj",
+        "State": "Delhi"
+    },
+    {
+        "Name": "Divya Jian",
+        "DOB": "1990-01-23",
+        "Height": 165.0,
+        "City": "Bhel",
+        "State": "Hyderabad"
+    },
+    {
+        "Name": "Ramesh",
+        "DOB": "1975-06-27",
+        "Height": 170.0,
+        "City": "Guntur",
+        "State": "Andhra Pradesh"
+    }
+]
